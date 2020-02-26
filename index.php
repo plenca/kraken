@@ -40,8 +40,6 @@ and open the template in the editor.
         echo '<br />';
         echo "Použila se magickou metodu ToString. Výsledkem je $matej";
 
-        echo "Nový řádek";
-        ECHO "dALŠÍ ŘÁDEK";
         echo "nový řádek větve";
         echo 'Ukazuji práci s krakenm!';
         echo 'Teď pracuji v test větvi';
