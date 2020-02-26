@@ -43,6 +43,7 @@ and open the template in the editor.
         echo "Nový řádek";
         ECHO "dALŠÍ ŘÁDEK";
         echo "nový řádek větve";
+        echo 'Ukazuji práci s krakenm!'
         ?>
     </body>
 </html>
