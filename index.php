@@ -39,12 +39,10 @@ and open the template in the editor.
         $lojza->pozdrav();
         echo '<br />';
         echo "Použila se magickou metodu ToString. Výsledkem je $matej";
-<<<<<<< HEAD
+
         echo "Nový řádek";
         ECHO "dALŠÍ ŘÁDEK";
         echo "nový řádek větve";
-=======
->>>>>>> parent of fac3357... Vložení testu do hlavní větve.
         ?>
     </body>
 </html>
