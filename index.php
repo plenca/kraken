@@ -39,9 +39,6 @@ and open the template in the editor.
         $lojza->pozdrav();
         echo '<br />';
         echo "Použila se magickou metodu ToString. Výsledkem je $matej";
-		/*
-		* Tady komentář velký.
-		*/
         ?>
     </body>
 </html>
