@@ -43,6 +43,7 @@ and open the template in the editor.
         echo "nový řádek větve";
         echo 'Ukazuji práci s krakenm!';
         echo 'Teď pracuji v test větvi';
+        echo 'Hrátky s linuxem!';
         ?>
     </body>
 </html>
